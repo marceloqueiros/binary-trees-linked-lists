@@ -1,0 +1,11 @@
+Linguagem Algorítmica
+
+A linguagem algorítmica utiliza o português para a definição dos comandos e tem as seguintes característica:
+
+1 - A linguagem não á sensível á capitulação ( não faz distinção entre letras minúsculas e maiúsculas)
+2 - Todos os algoritmos começam por inicio e terminam com fim
+3 - cada linha contém apenas um comando (o enter funciona como sinalizador de fim de comando)
+4 - O sinal de atribuição é a seta ( <- )
+5 - A definição de símbolos é feita em qualquer local do algoritmo
+
+Sintaxe

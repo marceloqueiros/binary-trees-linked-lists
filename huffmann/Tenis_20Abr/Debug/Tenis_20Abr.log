@@ -1,0 +1,4 @@
+﻿  Tenis_20Abr.cpp
+c:\users\marcelo\documents\visual studio 2015\projects\algoritmia\tenis & huffmann\tenis_20abr\tenis_20abr.cpp(435): warning C4101: 'aux2': unreferenced local variable
+c:\users\marcelo\documents\visual studio 2015\projects\algoritmia\tenis & huffmann\tenis_20abr\tenis_20abr.cpp(435): warning C4101: 'aux1': unreferenced local variable
+  Tenis_20Abr.vcxproj -> C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Algoritmia\Tenis & Huffmann\Debug\Tenis_20Abr.exe

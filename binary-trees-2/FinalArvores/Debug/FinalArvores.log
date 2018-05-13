@@ -1,0 +1,16 @@
+﻿Build started 08-05-2014 23:14:05.
+     1>Project "C:\Users\Rui\Desktop\Engenharia Informática\2º Ano\2º Semestre\Algoritmia\Exercício 3\FinalArvores\FinalArvores\FinalArvores.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Binary.c Main.c
+         Main.c
+         Binary.c
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Rui\Desktop\Engenharia Informática\2º Ano\2º Semestre\Algoritmia\Exercício 3\FinalArvores\Debug\FinalArvores.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Rui\Desktop\Engenharia Informática\2º Ano\2º Semestre\Algoritmia\Exercício 3\FinalArvores\Debug\FinalArvores.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Rui\Desktop\Engenharia Informática\2º Ano\2º Semestre\Algoritmia\Exercício 3\FinalArvores\Debug\FinalArvores.lib" /MACHINE:X86 Debug\Binary.obj
+         Debug\Main.obj
+         FinalArvores.vcxproj -> C:\Users\Rui\Desktop\Engenharia Informática\2º Ano\2º Semestre\Algoritmia\Exercício 3\FinalArvores\Debug\FinalArvores.exe
+     1>Done Building Project "C:\Users\Rui\Desktop\Engenharia Informática\2º Ano\2º Semestre\Algoritmia\Exercício 3\FinalArvores\FinalArvores\FinalArvores.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.79

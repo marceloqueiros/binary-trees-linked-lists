@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tenis_20Abr", "Tenis_20Abr\Tenis_20Abr.vcxproj", "{85CE2F5A-85E8-4B75-AC5D-CEB419CABCBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85CE2F5A-85E8-4B75-AC5D-CEB419CABCBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{85CE2F5A-85E8-4B75-AC5D-CEB419CABCBE}.Debug|Win32.Build.0 = Debug|Win32
+		{85CE2F5A-85E8-4B75-AC5D-CEB419CABCBE}.Release|Win32.ActiveCfg = Release|Win32
+		{85CE2F5A-85E8-4B75-AC5D-CEB419CABCBE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+﻿  Funcoes.c
+c:\users\marcelo\documents\visual studio 2015\projects\algoritmia - listas ligadas\algoritmia - listas ligadas 1\funcoes.c(190): warning C4047: 'function': 'LIST' differs in levels of indirection from 'LIST **'
+c:\users\marcelo\documents\visual studio 2015\projects\algoritmia - listas ligadas\algoritmia - listas ligadas 1\funcoes.c(190): warning C4024: 'getAdress': different types for formal and actual parameter 1
+c:\users\marcelo\documents\visual studio 2015\projects\algoritmia - listas ligadas\algoritmia - listas ligadas 1\funcoes.c(191): warning C4013: 'InsertEndList' undefined; assuming extern returning int
+c:\users\marcelo\documents\visual studio 2015\projects\algoritmia - listas ligadas\algoritmia - listas ligadas 1\funcoes.c(183): warning C4047: 'initializing': 'MEMBER *' differs in levels of indirection from 'LIST *'
+c:\users\marcelo\documents\visual studio 2015\projects\algoritmia - listas ligadas\algoritmia - listas ligadas 1\funcoes.c(184): warning C4101: 'baux': unreferenced local variable
+c:\users\marcelo\documents\visual studio 2015\projects\algoritmia - listas ligadas\algoritmia - listas ligadas 1\funcoes.c(210): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 3 has type 'int'
+c:\users\marcelo\documents\visual studio 2015\projects\algoritmia - listas ligadas\algoritmia - listas ligadas 1\funcoes.c(229): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 3 has type 'int'
+c:\users\marcelo\documents\visual studio 2015\projects\algoritmia - listas ligadas\algoritmia - listas ligadas 1\funcoes.c(249): warning C4476: 'printf' : unknown type field character '[' in format specifier
+c:\users\marcelo\documents\visual studio 2015\projects\algoritmia - listas ligadas\algoritmia - listas ligadas 1\funcoes.c(249): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\marcelo\documents\visual studio 2015\projects\algoritmia - listas ligadas\algoritmia - listas ligadas 1\funcoes.c(249): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\marcelo\documents\visual studio 2015\projects\algoritmia - listas ligadas\algoritmia - listas ligadas 1\funcoes.c(249): note: the missing variadic argument 2 is required by format string '%d'
+Funcoes.obj : error LNK2019: unresolved external symbol _InsertEndList referenced in function _readMembersFile
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Algoritmia - Listas Ligadas\Debug\Algoritmia - Listas Ligadas 1.exe : fatal error LNK1120: 1 unresolved externals
